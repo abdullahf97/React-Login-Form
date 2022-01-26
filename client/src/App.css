@@ -1,0 +1,25 @@
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.registration {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.App button {
+  display: inline-block;
+  width: 11%;
+  height: 2rem;
+  color: red;
+  border: 0;
+  bottom: 0;
+  cursor: pointer;
+  font-size: 20px;
+}
